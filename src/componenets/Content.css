@@ -1,0 +1,20 @@
+.content-body{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align:justify;
+    font-size: large;
+}
+
+@media (max-width: 767px) {
+    .recommendation-card{
+        display: none;
+    }
+    .content-body{
+        margin: 50px 50px;
+    }
+}
+
+.content-container{
+    padding: 0 0;
+}

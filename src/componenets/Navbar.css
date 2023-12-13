@@ -1,0 +1,20 @@
+.nav{
+    background-color: #22092C;
+    position: relative;
+    
+}
+.logo{
+    width: 10%;
+    
+}
+.search-input{
+    padding-left: 20;
+    margin-right: 10px;
+    background-color: #22092C;
+}
+/* .wrapper{
+    
+    position: sticky;
+    top: 0px;
+    
+} */

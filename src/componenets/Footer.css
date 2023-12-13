@@ -1,0 +1,44 @@
+
+a{
+    color: white
+}
+
+.footer{
+    height: 200px;
+    background-color: #22092C;
+    padding-top: 10px;
+    
+}
+.contact{
+    padding-top: 50px;
+    font-size: large;
+    display:flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+   
+    
+}
+.contact-element{
+    padding: 20px;
+    color: #ffffff;
+}
+.footer-line{
+    margin: 0 20rem;
+}
+
+.credit{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+   
+}
+
+@media (max-width:740px) {
+    .footer-line{
+        margin: 0 1rem;
+    }
+    
+}
