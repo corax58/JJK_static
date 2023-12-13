@@ -1,11 +1,5 @@
 import "../componenets/Footer.css";
-import {
-  FaTelegram,
-  FaFacebook,
-  FaInstagram,
-  FaTwitter,
-  FaCopyright,
-} from "react-icons/fa";
+import { FaTelegram, FaFacebook, FaInstagram, FaTwitter } from "react-icons/fa";
 import { LuCopyright } from "react-icons/lu";
 
 const Footer = () => {

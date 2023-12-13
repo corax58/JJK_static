@@ -3,7 +3,6 @@ import OtherCard from "./OtherCard";
 import anime_1 from "../assets/images/anime_1.png";
 import anime_2 from "../assets/images/anime_2.png";
 import anime_3 from "../assets/images/anime_3.jpg";
-import anime_4 from "../assets/images/anime_4.jpg";
 
 const Content = () => {
   const images = [

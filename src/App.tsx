@@ -1,4 +1,3 @@
-import React from "react";
 import Navbar from "./componenets/Navbar";
 import Slider from "./componenets/Slider";
 import Content from "./componenets/Content";
